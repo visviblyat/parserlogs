@@ -1,0 +1,45 @@
+{
+  "build": "h83e58a3_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "jpeg >=9b,<10a",
+    "libtiff >=4.1.0,<5.0a0",
+    "vc >=14.1,<15.0a0",
+    "vs2015_runtime >=14.16.27012,<15.0a0"
+  ],
+  "extracted_package_dir": "E:\\SOFTWARE\\ANACONDA\\pkgs\\lcms2-2.12-h83e58a3_0",
+  "files": [
+    "Library/bin/jpgicc.exe",
+    "Library/bin/lcms2.dll",
+    "Library/bin/linkicc.exe",
+    "Library/bin/psicc.exe",
+    "Library/bin/tificc.exe",
+    "Library/bin/transicc.exe",
+    "Library/include/lcms2.h",
+    "Library/include/lcms2_plugin.h",
+    "Library/lib/lcms2.lib",
+    ".nonadmin"
+  ],
+  "fn": "lcms2-2.12-h83e58a3_0.conda",
+  "license": "MIT",
+  "link": {
+    "source": "E:\\SOFTWARE\\ANACONDA\\pkgs\\lcms2-2.12-h83e58a3_0",
+    "type": 1
+  },
+  "md5": "4c341c8311bfc575b86707d146df220f",
+  "name": "lcms2",
+  "package_tarball_full_path": "E:\\SOFTWARE\\ANACONDA\\pkgs\\lcms2-2.12-h83e58a3_0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "defaults/win-64::lcms2==2.12=h83e58a3_0[md5=4c341c8311bfc575b86707d146df220f]",
+  "sha256": "48a2b95b00e70058653311cffabecfe1b9d1222996065cd101c825cd4a60c74b",
+  "size": 465393,
+  "subdir": "win-64",
+  "timestamp": 1617648814000,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/lcms2-2.12-h83e58a3_0.conda",
+  "version": "2.12"
+}

@@ -1,0 +1,58 @@
+{
+  "build": "py312h2bbff1b_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.12,<3.13.0a0",
+    "vc >=14.1,<15.0a0",
+    "vs2015_runtime >=14.16.27012,<15.0a0"
+  ],
+  "extracted_package_dir": "E:\\SOFTWARE\\ANACONDA\\pkgs\\lazy-object-proxy-1.10.0-py312h2bbff1b_0",
+  "files": [
+    "Lib/site-packages/lazy_object_proxy-1.10.0.dist-info/AUTHORS.rst",
+    "Lib/site-packages/lazy_object_proxy-1.10.0.dist-info/INSTALLER",
+    "Lib/site-packages/lazy_object_proxy-1.10.0.dist-info/LICENSE",
+    "Lib/site-packages/lazy_object_proxy-1.10.0.dist-info/METADATA",
+    "Lib/site-packages/lazy_object_proxy-1.10.0.dist-info/RECORD",
+    "Lib/site-packages/lazy_object_proxy-1.10.0.dist-info/REQUESTED",
+    "Lib/site-packages/lazy_object_proxy-1.10.0.dist-info/WHEEL",
+    "Lib/site-packages/lazy_object_proxy-1.10.0.dist-info/direct_url.json",
+    "Lib/site-packages/lazy_object_proxy-1.10.0.dist-info/top_level.txt",
+    "Lib/site-packages/lazy_object_proxy/__init__.py",
+    "Lib/site-packages/lazy_object_proxy/__pycache__/__init__.cpython-312.pyc",
+    "Lib/site-packages/lazy_object_proxy/__pycache__/_version.cpython-312.pyc",
+    "Lib/site-packages/lazy_object_proxy/__pycache__/compat.cpython-312.pyc",
+    "Lib/site-packages/lazy_object_proxy/__pycache__/simple.cpython-312.pyc",
+    "Lib/site-packages/lazy_object_proxy/__pycache__/slots.cpython-312.pyc",
+    "Lib/site-packages/lazy_object_proxy/__pycache__/utils.cpython-312.pyc",
+    "Lib/site-packages/lazy_object_proxy/_version.py",
+    "Lib/site-packages/lazy_object_proxy/cext.c",
+    "Lib/site-packages/lazy_object_proxy/cext.cp312-win_amd64.pyd",
+    "Lib/site-packages/lazy_object_proxy/compat.py",
+    "Lib/site-packages/lazy_object_proxy/simple.py",
+    "Lib/site-packages/lazy_object_proxy/slots.py",
+    "Lib/site-packages/lazy_object_proxy/utils.py",
+    ".nonadmin"
+  ],
+  "fn": "lazy-object-proxy-1.10.0-py312h2bbff1b_0.conda",
+  "license": "BSD-2-Clause",
+  "link": {
+    "source": "E:\\SOFTWARE\\ANACONDA\\pkgs\\lazy-object-proxy-1.10.0-py312h2bbff1b_0",
+    "type": 1
+  },
+  "md5": "a28b246d7b42e9e702d4b1d0cb142e24",
+  "name": "lazy-object-proxy",
+  "package_tarball_full_path": "E:\\SOFTWARE\\ANACONDA\\pkgs\\lazy-object-proxy-1.10.0-py312h2bbff1b_0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "defaults/win-64::lazy-object-proxy==1.10.0=py312h2bbff1b_0[md5=a28b246d7b42e9e702d4b1d0cb142e24]",
+  "sha256": "7d28a6148a26babdc897f4152cf39a535be3115be7ec4723dfbe11e2dbf51266",
+  "size": 39805,
+  "subdir": "win-64",
+  "timestamp": 1712909040000,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/lazy-object-proxy-1.10.0-py312h2bbff1b_0.conda",
+  "version": "1.10.0"
+}
